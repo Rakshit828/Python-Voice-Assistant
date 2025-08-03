@@ -20,7 +20,7 @@ A minimal and useful desktop voice assistant for playing around doing some deskt
 
 - You can start by installing this github repo into your computer using git.
 ```bash
-git clone https://github.com/user/repo.git
+git clone https://github.com/Rakshit828/Python-Voice-Assistant
 ```
 - Then, install all the required requirements
 ```bash
