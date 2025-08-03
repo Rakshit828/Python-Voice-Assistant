@@ -25,13 +25,11 @@ git clone https://github.com/user/repo.git
 ```bash
 pip install -r requirements.txt
 ```
-
 -Then, create a '.env' file in the project root directory and add the APIs key like:
 ```bash
 GROQ_API = 'your_api_key_here'
 WEATHER_API = 'your_api_key_here'
 ```
-
 -Then, you can run the voice assistant like:
 ```bash
 python main.py
