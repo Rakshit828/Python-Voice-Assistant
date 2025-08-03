@@ -4,6 +4,7 @@ A minimal and useful desktop voice assistant for playing around doing some deskt
 ## 📑 Table of Contents
 - [Features](#features)
 - [Installation](#installation)
+- [Info](#info)
 
 # Features
 - Tells about the weather of any city in this world.
@@ -25,13 +26,18 @@ git clone https://github.com/user/repo.git
 ```bash
 pip install -r requirements.txt
 ```
--Then, create a '.env' file in the project root directory and add the APIs key like:
+- Then, create a '.env' file in the project root directory and add the APIs key like:
 ```bash
 GROQ_API = 'your_api_key_here'
 WEATHER_API = 'your_api_key_here'
 ```
--Then, you can run the voice assistant like:
+- Then, you can run the voice assistant like:
 ```bash
 python main.py
 ```
-  
+
+# Info
+This is still on development and can be added with more features like:
+- Playing Music
+- Telling News
+  etc.
